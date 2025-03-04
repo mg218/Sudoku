@@ -1,0 +1,2 @@
+The goal of this project is to build a sudoku game that can build puzzles of any size from 1x1 to 16x16
+I will start in java which I am profecient with and translate the algorithm to other languages.
